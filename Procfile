@@ -1,1 +1,1 @@
-web: node_modules/.bin/json-server --watch db.json --port $PORT
+web: node server.js
