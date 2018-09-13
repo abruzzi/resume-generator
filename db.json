@@ -1,0 +1,162 @@
+{
+  "users": [
+    {
+      "id": 14323,
+      "name": "Juntao Qiu",
+      "title": "Web Developer / Designer",
+      "bio": [
+        "Juntao Qiu is a senior Web application developer at ThoughtWorks. In the past ten years, he has been worked on a wild range of different types of Web applications, from traditional Web application with jQuery + JSP to SPAs with Backbone, Angular and React. He also is a technical author who has already had two books published: *JavaScript Core Concepts and Practices(2013)* and *Lightweight Web Application Development(2015)*.",
+        "Juntao has been worked on a lot of tech stacks like Java, Ruby, Node.js and has a real passion for Clean Code, Refactoring, Test Driven Development. Additionally, he practices Muay Thai and Boxing when he isn't coding."
+      ],
+      "skills": [
+        {
+          "category": "Project Portfolio Management",
+          "description": "Value-based project prioritisation, Pipeline management, Resource planning, Delivery assurance"
+        },
+        {
+          "category": "Agile Project Management",
+          "description": "Inception facilitation, Release Planning, Iteration Management"
+        },
+        {
+          "category": "Project Portfolio Management",
+          "description": "Value-based project prioritisation, Pipeline management, Resource planning, Delivery assurance"
+        }
+      ],
+      "experience": [
+        {
+          "project": "Quick Service Restaurant industry, Australia",
+          "role": "Delivery Principal",
+          "description": [
+            "Racha lead a client project portfolio for a year, ensuring the business vision was understood and maintained through all levels of the organisation, teams were protected from disruption and blockers were removed, achieving the delivery of 12 projects in the year, including major innovative products and services to revolutionise the Quick Service Restaurant industry."
+          ]
+        },
+        {
+          "project": "Quick Service Restaurant industry, Australia",
+          "role": "Delivery Principal",
+          "description": [
+            "Racha lead a client project portfolio for a year, ensuring the business vision was understood and maintained through all levels of the organisation, teams were protected from disruption and blockers were removed, achieving the delivery of 12 projects in the year, including major innovative products and services to revolutionise the Quick Service Restaurant industry."
+          ]
+        }
+      ],
+      "education": []
+    },
+    {
+      "name": "Juntao",
+      "title": "Web Developer",
+      "skills": [
+        {
+          "category": "Language",
+          "description": "English, Chinese"
+        }
+      ],
+      "experience": [
+        {
+          "project": "Rea AudiMax",
+          "role": "Web Developer",
+          "description": "coding"
+        }
+      ],
+      "id": 14324
+    },
+    {
+      "name": "John Nash",
+      "title": "Web Developer / Designer",
+      "bio": "\nJohn Forbes Nash Jr.\nJohn Forbes Nash, Jr. by Peter Badge.jpg\nNash in 2006\nBorn\tJune 13, 1928\nBluefield, West Virginia, U.S.\nDied\tMay 23, 2015 (aged 86)\nMonroe Township, Middlesex County, New Jersey, U.S.\nCitizenship\tUnited States\nAlma mater\t\nCarnegie Institute of Technology B.S and M.S.\nPrinceton University Ph.D.\nKnown for\t\nNash equilibrium\nNash embedding theorem\nNash functions\nNash–Moser theorem\nHilbert's nineteenth problem\nSpouse(s)\t\nAlicia Lardé López-Harrison\n(m. 1957; div. 1963)\n(m. 2001; d. 2015)\nChildren\t2[1]\nAwards\t\nJohn von Neumann Theory Prize (1978)\nNobel Memorial Prize in Economic Sciences (1994)\nAbel Prize (2015)\nScientific career\nFields\t\nMathematics\nEconomics\nInstitutions\t\nMassachusetts Institute of Technology\nPrinceton University\nThesis\tNon-Cooperative Games (1950)\nDoctoral advisor\tAlbert W. Tucker\nJohn Forbes Nash Jr. (June 13, 1928 – May 23, 2015) was an American mathematician who made fundamental contributions to game theory, differential geometry, and the study of partial differential equations.[2][3] Nash's work has provided insight into the factors that govern chance and decision-making inside complex systems found in everyday life.",
+      "skills": [
+        {
+          "category": "Essential",
+          "description": "Math, Physical"
+        },
+        {
+          "category": "Language",
+          "description": "English"
+        }
+      ],
+      "experience": [
+        {
+          "project": "Group threoy",
+          "role": "Lead",
+          "description": "Cannot tell much"
+        }
+      ],
+      "id": 14325
+    },
+    {
+      "name": "RACHA HATAHET",
+      "title": "Lead Consultant / Delivery Principal",
+      "bio": "Racha works as a Business Analyst, Iteration Manager and Agile Coach. She has several years of experience in software delivery and change management within a various range of organisations in Australia, Asia, Europe and North America.",
+      "skills": [
+        {
+          "category": "Project Portfolio Management",
+          "description": "Value-based project prioritisation, Pipeline management, Resource planning, Delivery assurance"
+        },
+        {
+          "category": "Agile Project Management",
+          "description": "Inception facilitation, Release Planning, Iteration Management"
+        }
+      ],
+      "experience": [
+        {
+          "project": "Quick Service Restaurant industry, Australia",
+          "role": "Delivery Principal",
+          "description": "Racha lead a client project portfolio for a year, ensuring the business vision was understood and maintained through all levels of the organisation, teams were protected from disruption and blockers were removed, achieving the delivery of 12 projects in the year, including major innovative products and services to revolutionise the Quick Service Restaurant industry."
+        },
+        {
+          "project": "Health and Fitness industry, Australia",
+          "role": "Business Analyst / Iteration Manager",
+          "description": "Racha lead a team of 15 charged with creating iPhone, Android and Web apps to deliver a mobile weightloss solution to the market. The product was built for a startup company, and the delivery approach was lean with rapid customer feedback from a large group of beta users. Racha drove the delivery effort until the product market launch.\n"
+        }
+      ],
+      "id": 14326
+    },
+    {
+      "name": "Qun Zhang",
+      "title": "Business Analyst",
+      "bio": "Racha works as a Business Analyst, Iteration Manager and Agile Coach. She has several years of experience in software delivery and change management within a various range of organisations in Australia, Asia, Europe and North America.\n\nRacha comes with great people skills, a technical mind and is a natural organiser. She is a truly professional individual with the persona and charisma to deliver change in the most difficult of environments.",
+      "skills": [
+        {
+          "category": "Project Portfolio Management ",
+          "description": "Value-based project prioritisation, Pipeline management, Resource planning, Delivery assurance"
+        }
+      ],
+      "experience": [
+        {
+          "project": "Financial Services Industry, Australia",
+          "role": "Agile Coach",
+          "description": "Racha acted as a Player-Coach in a delivery project to rebrand and re-skin a customer facing online claims application for one of the leader insurance company in Australia.\n\nChallenges: Distributed delivery team China/Australia, Iteration Manager and Product Owner both new to Agile methodologies\n\nResults in 6 weeks: Delivered an end-to-end website re-skin for an insurance brand, and up-skilled two team members to Agile practices and Scrum methodology"
+        }
+      ],
+      "id": 14327
+    },
+    {
+      "experience": [
+        {
+          "current": true,
+          "project": "TW Project1",
+          "role": "Dev",
+          "description": "some details"
+        },
+        {
+          "current": false,
+          "project": "Out of TW",
+          "role": "Dev",
+          "description": "ddd"
+        }
+      ],
+      "name": "Racha Hatahet",
+      "title": "Lead Consultant",
+      "bio": "a\n\nb\n\nc",
+      "skills": [
+        {
+          "category": "a",
+          "description": "b"
+        },
+        {
+          "category": "c",
+          "description": "b"
+        }
+      ],
+      "id": 14328
+    }
+  ]
+}
