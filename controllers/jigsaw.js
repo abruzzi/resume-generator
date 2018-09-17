@@ -1,11 +1,9 @@
+const express = require('express')
+
+const router = express.Router()
+
 const axios = require('axios')
 const _ = require('lodash')
-
-const jsonServer = require('json-server');
-const server = jsonServer.create();
-const router = jsonServer.router('db.json');
-const middlewares = jsonServer.defaults();
-const port = process.env.PORT || 3000;
 
 const headers = { headers: {'Authorization': `${process.env.JIGSAW_API_KEY}`} }
 
@@ -37,7 +35,7 @@ const reshape = (basic, skills, experience) => {
 	}
 }
 
-server.get('/jigsaw/:id', (req, res) => {
+router.get('/:id', (req, res) => {
 	const id = req.params.id
 
 	return axios.all([basic(id), skills(id), experience(id)])
@@ -47,9 +45,5 @@ server.get('/jigsaw/:id', (req, res) => {
   }));
 })
 
-server.use(middlewares);
-server.use(router);
+module.exports = router
 
-server.listen(port, function () {
-  console.log('JSON Server is running')
-})
