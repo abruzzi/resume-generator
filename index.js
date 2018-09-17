@@ -15,6 +15,7 @@ const port = process.env.PORT || 3000
 app.use(cors())
 app.use('/profiles', profiles)
 app.use('/jigsaw', jigsaw)
+app.use(express.static('public'))
 
 app.listen(port, () => {
   console.log(`Application is running on ${port}`)
